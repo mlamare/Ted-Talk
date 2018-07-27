@@ -13,8 +13,11 @@ and today covers almost all topics — from science to business to global issues
 run TEDx events help share ideas in communities around the world.(https://www.ted.com/)
 
 Organization of Github Project:
+
 Notebooks
 -EDA - parsing and cleaning data as well as making data vizualiations of findings
 -Modeling - includes all machine learning with SciKit Learn
+
+
 Data
 -ted_main.csv - this is the all the data
