@@ -20,4 +20,4 @@ Notebooks
 Data
 -ted_main.csv - this is the all the data
 
-Summary of Findings:
+
