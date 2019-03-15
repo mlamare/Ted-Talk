@@ -1,5 +1,5 @@
-# ga_tedtalks
-General Assembly Final Project: Predicting Ted Talks Views
+Ted Talk
+General Assembly Final Project: Predicting Ted Talks Views	
 
 Ted Talks are popular because they are engaging and they have branded themselves as having 'ideas worth spreading'.
 The presentation style has lead to millions watching.
@@ -16,8 +16,7 @@ Notebooks
 -EDA - parsing and cleaning data as well as making data vizualiations of findings
 -Modeling - includes all machine learning with SciKit Learn
 
-
 Data
--ted_main.csv - this is the all the data
+-ted_main.csv - data for project 
 
 
