@@ -14,6 +14,7 @@ usually in the form of short, powerful talks.TED began in 1984 as a conference w
 
 Notebooks
 -EDA - parsing and cleaning data as well as making data vizualiations of findings
+
 -Modeling - includes all machine learning with SciKit Learn
 
 Data
