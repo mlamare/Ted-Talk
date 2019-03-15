@@ -6,7 +6,8 @@ I am planning to predict views of ted talks based on features like tags, duratio
 I am using Kaggle's Ted Talk dataset.Issues that I anticipate are building a model that acknowledges all the tag feature.
 I chose this topic because I have always been fascinated by Ted Talks and hope to give one someday.
 
-## Kaggle Dataset: https://www.kaggle.com/rounakbanik/ted-talks/data 
+## Kaggle Dataset: 
+https://www.kaggle.com/rounakbanik/ted-talks/data 
 TED is a nonpartisan nonprofit devoted to spreading ideas,
 usually in the form of short, powerful talks.TED began in 1984 as a conference where Technology, Entertainment and Design converged,and today covers almost all topics — from science to business to global issues — in more than 110 languages. Meanwhile, independently run TEDx events help share ideas in communities around the world.(https://www.ted.com/)
 
