@@ -1,5 +1,4 @@
-Ted Talk
-General Assembly Final Project: Predicting Ted Talks Views	
+Predicting Ted Talks Views	
 
 Ted Talks are popular because they are engaging and they have branded themselves as having 'ideas worth spreading'.
 The presentation style has lead to millions watching.
