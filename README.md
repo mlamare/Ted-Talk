@@ -11,11 +11,12 @@ TED is a nonpartisan nonprofit devoted to spreading ideas,
 usually in the form of short, powerful talks.TED began in 1984 as a conference where Technology, Entertainment and Design converged,and today covers almost all topics — from science to business to global issues — in more than 110 languages. Meanwhile, independently run TEDx events help share ideas in communities around the world.(https://www.ted.com/)
 
 ## Organization of Notebooks:
+Data - ted_main.csv - data for project 
+
 EDA - parsing and cleaning data as well as making data vizualiations of findings
 
 Modeling - includes all machine learning with SciKit Learn
 
-Data
--ted_main.csv - data for project 
+
 
 
